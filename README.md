@@ -1,1 +1,2 @@
-# *tryout --allow
+# []tryout --allow-unrelated-histories
+
